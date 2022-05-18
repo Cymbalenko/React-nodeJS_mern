@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://NavSupport:DZiDEBQdSRxcIgQZ@cluster0.qnbdb.mongodb.net/app",
+    "jwtSecret": "testing proggram",
+    "baseUrl": "http://localhost:5000"
+}
